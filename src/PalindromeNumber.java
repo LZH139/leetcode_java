@@ -12,8 +12,6 @@ public class PalindromeNumber {
     class Solution {
         public boolean isPalindrome(int x) {
             int xLength = numberLength(x);
-            int a = 0;
-            int b = 0;
 
             if(x<0 | (x % 10 == 0 & x != 0)){
                 return false;
