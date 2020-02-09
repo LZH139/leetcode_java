@@ -30,7 +30,6 @@ public class LongestCommonPrefix {
                 if(!isSame(str1.charAt(i), str2.charAt(i))){
                     return str1.substring(0, i);
                 }
-
             }
             return minstr;
         }
