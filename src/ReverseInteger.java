@@ -23,7 +23,7 @@ public class ReverseInteger {
                 if(x==0){
                     break;
                 }
-                if(result > Integer.MAX_VALUE | result < Integer.MIN_VALUE){
+                if(result > Integer.MAX_VALUE || result < Integer.MIN_VALUE){
                     return 0;
                 }
             }

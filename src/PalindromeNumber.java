@@ -13,7 +13,7 @@ public class PalindromeNumber {
         public boolean isPalindrome(int x) {
             int xLength = numberLength(x);
 
-            if(x<0 | (x % 10 == 0 & x != 0)){
+            if(x<0 || (x % 10 == 0 & x != 0)){
                 return false;
             }
 
@@ -42,7 +42,7 @@ public class PalindromeNumber {
                 if(x==0){
                     break;
                 }
-                if(result > Integer.MAX_VALUE | result < Integer.MIN_VALUE){
+                if(result > Integer.MAX_VALUE || result < Integer.MIN_VALUE){
                     return 0;
                 }
             }
