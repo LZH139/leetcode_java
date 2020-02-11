@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b360d6d-8496-46ce-b766-afeaed166b75" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MergeTwoSortedLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RemoveElement.java" afterDir="false" />
+    <list default="true" id="0b360d6d-8496-46ce-b766-afeaed166b75" name="Default Changelist" comment="RemoveElement">
+      <change afterPath="$PROJECT_DIR$/src/CountAndSay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ImplementstrStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SearchInsertPosition.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/PalindromeNumber$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/PalindromeNumber$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/ReverseInteger$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/ReverseInteger$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PalindromeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PalindromeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReverseInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReverseInteger.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,33 +54,78 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="8" />
+          <entry key="java" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="8" />
+          <entry key="JAVA" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3276" />
+          <entry key="java" value="4470" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3276" />
+          <entry key="JAVA" value="4470" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/RemoveElement.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="138">
               <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ImplementstrStr.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="5" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="9" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SearchInsertPosition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/CountAndSay.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/RomanToInteger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="5" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="10" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LongestCommonPrefix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="5" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="10" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -114,7 +155,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/isPalindrome.java" />
-        <option value="$PROJECT_DIR$/src/LongestCommonPrefix.java" />
         <option value="$PROJECT_DIR$/src/RomanToInteger.java" />
         <option value="$PROJECT_DIR$/src/ValidParentheses.java" />
         <option value="$PROJECT_DIR$/src/Solve.java" />
@@ -123,6 +163,10 @@
         <option value="$PROJECT_DIR$/src/ReverseInteger.java" />
         <option value="$PROJECT_DIR$/src/RemoveDuplicatesFromSortedArray.java" />
         <option value="$PROJECT_DIR$/src/RemoveElement.java" />
+        <option value="$PROJECT_DIR$/src/LongestCommonPrefix.java" />
+        <option value="$PROJECT_DIR$/src/ImplementstrStr.java" />
+        <option value="$PROJECT_DIR$/src/SearchInsertPosition.java" />
+        <option value="$PROJECT_DIR$/src/CountAndSay.java" />
       </list>
     </option>
   </component>
@@ -185,7 +229,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581329258202" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581379291386" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -206,9 +251,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RemoveElement">
-    <configuration name="LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LongestCommonPrefix" />
+  <component name="RunManager" selected="Application.CountAndSay">
+    <configuration name="CountAndSay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountAndSay" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImplementstrStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ImplementstrStr" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -228,34 +280,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RomanToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RomanToInteger" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ValidParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ValidParentheses" />
+    <configuration name="SearchInsertPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SearchInsertPosition" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LongestCommonPrefix" />
-      <item itemvalue="Application.RomanToInteger" />
-      <item itemvalue="Application.ValidParentheses" />
       <item itemvalue="Application.RemoveDuplicatesFromSortedArray" />
       <item itemvalue="Application.RemoveElement" />
+      <item itemvalue="Application.ImplementstrStr" />
+      <item itemvalue="Application.SearchInsertPosition" />
+      <item itemvalue="Application.CountAndSay" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountAndSay" />
+        <item itemvalue="Application.ImplementstrStr" />
+        <item itemvalue="Application.SearchInsertPosition" />
         <item itemvalue="Application.RemoveElement" />
         <item itemvalue="Application.RemoveDuplicatesFromSortedArray" />
-        <item itemvalue="Application.ValidParentheses" />
-        <item itemvalue="Application.RomanToInteger" />
-        <item itemvalue="Application.LongestCommonPrefix" />
       </list>
     </recent_temporary>
   </component>
@@ -270,7 +315,7 @@
       <option name="presentableId" value="Default" />
       <updated>1581158338522</updated>
       <workItem from="1581158341349" duration="6001000" />
-      <workItem from="1581255900820" duration="20356000" />
+      <workItem from="1581255900820" duration="28356000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1581160673733</created>
@@ -328,17 +373,24 @@
       <option name="project" value="LOCAL" />
       <updated>1581311941087</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="RemoveElement">
+      <created>1581329270656</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1581329270656</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26357000" />
+    <option name="totallyTimeSpent" value="34357000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -346,8 +398,8 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33493975" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33493975" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -382,7 +434,32 @@
     <MESSAGE value="LongestCommonPrefix" />
     <MESSAGE value="RomanToInteger" />
     <MESSAGE value="ValidParentheses" />
-    <option name="LAST_COMMIT_MESSAGE" value="ValidParentheses" />
+    <MESSAGE value="RemoveElement" />
+    <option name="LAST_COMMIT_MESSAGE" value="RemoveElement" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ImplementstrStr.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ImplementstrStr.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ImplementstrStr.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Solve.java">
@@ -392,28 +469,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LongestCommonPrefix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="5" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="4" selection-end-column="5" />
-          <folding>
-            <element signature="e#926#927#0" expanded="true" />
-            <element signature="e#959#960#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ReverseInteger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="25" column="48" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RomanToInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -452,6 +511,55 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LongestCommonPrefix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SearchInsertPosition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ImplementstrStr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/AbstractStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-466">
+          <caret line="702" column="33" selection-start-line="702" selection-start-column="33" selection-end-line="702" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RomanToInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="233" column="13" selection-start-line="233" selection-start-column="8" selection-end-line="233" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CountAndSay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
         </state>
       </provider>
     </entry>
