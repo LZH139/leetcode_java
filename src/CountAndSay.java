@@ -6,7 +6,7 @@ public class CountAndSay {
 
     public void out(){
         Solution s = new Solution();
-        System.out.println(s.countAndSay(300));
+        System.out.println(s.countAndSay(30));
     }
 
 //直接字符串连接写法，速度极慢，相较于StringBuilder 花费多一千多倍的时间
