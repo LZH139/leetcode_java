@@ -19,21 +19,37 @@ public class PreorderTraversal {
         System.out.println(s.preorderTraversal(treehead));
     }
 
+//    class Solution {
+////        public List<Integer> preorderTraversal(TreeNode root) {
+////            List<Integer> list = new LinkedList<>();
+////            Stack<TreeNode> s = new Stack<>();
+////
+////            while (root != null || !s.isEmpty()){
+////                if(root != null){
+////                    s.push(root);
+////                    list.add(root.val);
+////                    root = root.left;
+////                }else{
+////                    root = s.pop().right;
+////
+////                }
+////            }
+////            return list;
+////
+////
+////        }
+////    }
+
+//递归版本
     class Solution {
         public List<Integer> preorderTraversal(TreeNode root) {
             List<Integer> list = new LinkedList<>();
-            Stack<TreeNode> s = new Stack<>();
-
-            while (root != null || !s.isEmpty()){
-                if(root != null){
-                    s.push(root);
-                    list.add(root.val);
-                    root = root.left;
-                }else{
-                    root = s.pop().right;
-
-                }
+            if(root == null){
+                return list;
             }
+            list.add(root.val);
+            list.addAll(preorderTraversal(root.left));
+            list.addAll(preorderTraversal((root.right)));
             return list;
 
 
