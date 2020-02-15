@@ -14,26 +14,35 @@ public class MaxDepth {
         System.out.println(s.maxDepth(treehead));
     }
 
+//    class Solution {
+//        private int maxdepth;
+//        public int maxDepth(TreeNode root) {
+//            int depth = 1;
+//            maximum_depth(root,depth);
+//            return maxdepth;
+//        }
+//
+//        public void maximum_depth(TreeNode root,int depth){
+//            if (root == null) {
+//                return;
+//            }
+//            if (root.left == null && root.right == null) {
+//                maxdepth = Math.max(maxdepth, depth);
+//            }
+//            maximum_depth(root.left,depth+1);
+//            maximum_depth(root.right,depth+1);
+//
+//        }
+//    }
+
     class Solution {
-        private int maxdepth;
         public int maxDepth(TreeNode root) {
-            if(root == null){
+            if(root==null){
                 return 0;
             }
-            int depth = 1;
-
-            maxdepth(root,depth);
-
-            return maxdepth;
-        }
-
-        public void maxdepth(TreeNode root,int depth){
-            if (root.left == null && root.right == null) {
-                maxdepth = Math.max(maxdepth, depth);
-            }
-            maxdepth(root.left,depth+1);
-            maxdepth(root.right,depth+1);
-
+            int leftHeight=maxDepth(root.left);
+            int rightHeight=maxDepth(root.right);
+            return Math.max(leftHeight,rightHeight)+1;
         }
     }
 }
