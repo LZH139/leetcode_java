@@ -11,7 +11,17 @@ public class BestTimeToBuyAndSellStock {
     }
     class Solution {
         public int maxProfit(int[] prices) {
-            return 1;
+            int minprice = Integer.MAX_VALUE;
+            int maxprofit = 0;
+            for(int i=0;i<prices.length;i++){
+                if(prices[i]<minprice){
+                    minprice = prices[i];
+                }
+                if(prices[i]-minprice>maxprofit){
+                    maxprofit = prices[i]-minprice;
+                }
+            }
+            return maxprofit;
         }
     }
 }
