@@ -10,31 +10,35 @@ public class Tree {
         TreeNode root;
         q.offer(head);
         int cursor = 1;
-        while (cursor < list.length-1){
-            while (!q.isEmpty()){
-                root = q.poll();
-                if(list[cursor] !=null){
-                    root.left = new TreeNode(list[cursor]);
-                    q.offer(root.left);
-                }else{
-                    root.left = null;
-                }
-                if(cursor+1>list.length-1){
-                    break;
-                }
-                cursor++;
-                if(list[cursor] !=null){
-                    root.right = new TreeNode(list[cursor]);
-                    q.offer(root.right);
-                }else{
-                    root.right = null;
-                }
-                if(cursor+1>list.length-1){
-                    break;
-                }
-                cursor++;
-            }
+        if(list.length == 1){
+            return head;
         }
+        while (cursor < list.length || !q.isEmpty()){
+            root = q.poll();
+
+            if(list[cursor] != null){
+                root.left = new TreeNode(list[cursor]);
+                q.offer(root.left);
+            }else{
+                root.left = null;
+            }
+            if(cursor+1>list.length-1){
+                break;
+            }
+            cursor++;
+
+            if(list[cursor] != null){
+                root.right = new TreeNode(list[cursor]);
+                q.offer(root.right);
+            }else{
+                root.right = null;
+            }
+            if(cursor+1>list.length-1){
+                break;
+            }
+            cursor++;
+        }
+
         return head;
     }
 }

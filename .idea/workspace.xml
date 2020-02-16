@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08f3220a-af4e-43b0-98cf-2e759f51cf08" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOrderBottom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BestTimeToBuyAndSellStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IsBalanced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinimumDepthOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PascalsTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PascalsTriangleII.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Common/Tree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Common/Tree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Common/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Common/Tree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +25,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1XsFHV8WQEUr5ZL9Eg5OY4kKYrP" />
   <component name="ProjectViewState">
@@ -37,9 +39,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager" selected="Application.LevelOrderBottom">
-    <configuration name="HasPathSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HasPathSum" />
+  <component name="RunManager" selected="Application.PascalsTriangleII">
+    <configuration name="IsBalanced" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IsBalanced" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -52,10 +54,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MinimumDepthOfBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MinimumDepthOfBinaryTree" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PascalsTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PascalsTriangle" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PascalsTriangleII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PascalsTriangleII" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PascalsTriangleII" />
+        <item itemvalue="Application.PascalsTriangle" />
+        <item itemvalue="Application.MinimumDepthOfBinaryTree" />
+        <item itemvalue="Application.IsBalanced" />
         <item itemvalue="Application.LevelOrderBottom" />
-        <item itemvalue="Application.HasPathSum" />
       </list>
     </recent_temporary>
   </component>
@@ -69,37 +95,81 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581826808284</updated>
-      <workItem from="1581826811580" duration="3776000" />
+      <workItem from="1581826811580" duration="15774000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1581843095954</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581843095954</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="570" y="357" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1581826850885">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="570" y="357" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1440.900@0.0.1440.900" timestamp="1581826850885" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1581833698797">
+    <state x="314" y="52" key="CommitChangelistDialog2" timestamp="1581843095751">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581833698797" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1581833698796">
+    <state x="314" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1581843095751" />
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom" timestamp="1581859054488">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1581833698796" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1581833698795">
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581859054488" />
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.23.1440.802@0.23.1440.802" timestamp="1581858657156" />
+    <state width="1398" height="303" key="GridCell.Tab.0.center" timestamp="1581859054487">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1581833698795" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1581833698797">
+    <state width="1398" height="303" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1581859054487" />
+    <state width="1398" height="303" key="GridCell.Tab.0.center/0.23.1440.802@0.23.1440.802" timestamp="1581858657155" />
+    <state width="1398" height="303" key="GridCell.Tab.0.left" timestamp="1581859054486">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1581833698797" />
+    <state width="1398" height="303" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1581859054486" />
+    <state width="1398" height="303" key="GridCell.Tab.0.left/0.23.1440.802@0.23.1440.802" timestamp="1581858657154" />
+    <state width="1398" height="303" key="GridCell.Tab.0.right" timestamp="1581859054488">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1581859054488" />
+    <state width="1398" height="303" key="GridCell.Tab.0.right/0.23.1440.802@0.23.1440.802" timestamp="1581858657156" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1581859054630">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581859054630" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.23.1440.802@0.23.1440.802" timestamp="1581858657339" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1581859054629">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1581859054629" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.23.1440.802@0.23.1440.802" timestamp="1581858657338" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1581859054629">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1581859054629" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.23.1440.802@0.23.1440.802" timestamp="1581858657338" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1581859054629">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1581859054629" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.23.1440.802@0.23.1440.802" timestamp="1581858657339" />
     <state x="399" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1581826812221">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
     <state x="399" y="257" key="com.intellij.ide.util.TipDialog/0.23.1440.804@0.23.1440.804" timestamp="1581826812221" />
+    <state x="509" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581843102306">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="509" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1581843102306" />
   </component>
 </project>
