@@ -1,9 +1,8 @@
-import Common.Tree;
-import Common.TreeNode;
+import Common.Tree.Tree;
+import Common.Tree.TreeNode;
 
 import java.util.LinkedList;
 import java.util.List;
-import java.util.Stack;
 
 public class InorderTraversal {
     public static void main(String[] argv){

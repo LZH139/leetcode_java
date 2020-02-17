@@ -1,5 +1,5 @@
-import Common.Tree;
-import Common.TreeNode;
+import Common.Tree.Tree;
+import Common.Tree.TreeNode;
 
 public class IsBalanced {
     public static void main(String[] argv){

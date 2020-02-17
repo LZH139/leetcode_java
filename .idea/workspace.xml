@@ -2,8 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08f3220a-af4e-43b0-98cf-2e759f51cf08" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/BestTimeToBuyAndSellStockII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Common/List/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Common/List/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedListCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SingleNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ValidPalindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BestTimeToBuyAndSellStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BestTimeToBuyAndSellStock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Common/Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Common/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/HasPathSum$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/HasPathSum$Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/HasPathSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/HasPathSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/InorderTraversal$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/InorderTraversal$Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/InorderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/InorderTraversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/IsBalanced$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/IsBalanced$Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/IsBalanced.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/IsBalanced.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/IsSymmetric$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/IsSymmetric$Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/IsSymmetric.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/IsSymmetric.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/LevelOrder$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/LevelOrder$Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/LevelOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/LevelOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/LevelOrderBottom$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/LevelOrderBottom$Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/LevelOrderBottom.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/LevelOrderBottom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/MaxDepth$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/MaxDepth$Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/MaxDepth.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/MaxDepth.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/MinimumDepthOfBinaryTree$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/MinimumDepthOfBinaryTree$Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/MinimumDepthOfBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/MinimumDepthOfBinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/PostorderTraversal$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/PostorderTraversal$Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/PostorderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/PostorderTraversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/PreorderTraversal$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/PreorderTraversal$Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/PreorderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/PreorderTraversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/SameTree$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/SameTree$Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/SameTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/SameTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Common/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Common/Tree/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Common/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Common/Tree/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HasPathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HasPathSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InorderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IsBalanced.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IsBalanced.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IsSymmetric.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IsSymmetric.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LevelOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LevelOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LevelOrderBottom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LevelOrderBottom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MaxDepth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaxDepth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MinimumDepthOfBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MinimumDepthOfBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PostorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PostorderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PreorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PreorderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SameTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SameTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,37 +75,43 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager" selected="Application.BestTimeToBuyAndSellStock">
-    <configuration name="BestTimeToBuyAndSellStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BestTimeToBuyAndSellStock" />
+  <component name="RunManager" selected="Application.LinkedListCycle">
+    <configuration name="BestTimeToBuyAndSellStockII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BestTimeToBuyAndSellStockII" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsBalanced" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IsBalanced" />
+    <configuration name="LinkedListCycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedListCycle" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinimumDepthOfBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MinimumDepthOfBinaryTree" />
+    <configuration name="List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Common.List.List" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Common.List.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingleNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SingleNumber" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PascalsTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PascalsTriangle" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PascalsTriangleII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PascalsTriangleII" />
+    <configuration name="ValidPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ValidPalindrome" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BestTimeToBuyAndSellStock" />
-        <item itemvalue="Application.PascalsTriangleII" />
-        <item itemvalue="Application.PascalsTriangle" />
-        <item itemvalue="Application.MinimumDepthOfBinaryTree" />
-        <item itemvalue="Application.IsBalanced" />
+        <item itemvalue="Application.LinkedListCycle" />
+        <item itemvalue="Application.List" />
+        <item itemvalue="Application.SingleNumber" />
+        <item itemvalue="Application.ValidPalindrome" />
+        <item itemvalue="Application.BestTimeToBuyAndSellStockII" />
       </list>
     </recent_temporary>
   </component>
@@ -89,7 +137,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581826808284</updated>
-      <workItem from="1581826811580" duration="16585000" />
+      <workItem from="1581826811580" duration="25700000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1581843095954</created>
@@ -105,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581859491188</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update">
+      <created>1581866312182</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581866312182</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,50 +175,51 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="570" y="357" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1440.900@0.0.1440.900" timestamp="1581826850885" />
-    <state x="314" y="52" key="CommitChangelistDialog2" timestamp="1581859491070">
+    <state x="314" y="52" key="CommitChangelistDialog2" timestamp="1581866312065">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="314" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1581859491070" />
-    <state width="1398" height="303" key="GridCell.Tab.0.bottom" timestamp="1581866178672">
+    <state x="314" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1581866312065" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1581921385721">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581866178672" />
-    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.23.1440.802@0.23.1440.802" timestamp="1581858657156" />
-    <state width="1398" height="303" key="GridCell.Tab.0.center" timestamp="1581866178670">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581921385721" />
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.23.1440.802@0.23.1440.802" timestamp="1581918902594" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1581921385720">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1581866178670" />
-    <state width="1398" height="303" key="GridCell.Tab.0.center/0.23.1440.802@0.23.1440.802" timestamp="1581858657155" />
-    <state width="1398" height="303" key="GridCell.Tab.0.left" timestamp="1581866178670">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1581921385720" />
+    <state width="1398" height="303" key="GridCell.Tab.0.center/0.23.1440.802@0.23.1440.802" timestamp="1581918902592" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1581921385719">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1581866178670" />
-    <state width="1398" height="303" key="GridCell.Tab.0.left/0.23.1440.802@0.23.1440.802" timestamp="1581858657154" />
-    <state width="1398" height="303" key="GridCell.Tab.0.right" timestamp="1581866178671">
+    <state width="1398" height="303" key="GridCell.Tab.0.left/0.0.1440.825@0.0.1440.900" timestamp="1581911155982" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1581921385719" />
+    <state width="1398" height="303" key="GridCell.Tab.0.left/0.23.1440.802@0.23.1440.802" timestamp="1581918902592" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1581921385720">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1581866178671" />
-    <state width="1398" height="303" key="GridCell.Tab.0.right/0.23.1440.802@0.23.1440.802" timestamp="1581858657156" />
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1581866178674">
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1581921385720" />
+    <state width="1398" height="303" key="GridCell.Tab.0.right/0.23.1440.802@0.23.1440.802" timestamp="1581918902593" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1581920879561">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581866178674" />
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.23.1440.802@0.23.1440.802" timestamp="1581858657339" />
-    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1581866178673">
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581920879561" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.23.1440.802@0.23.1440.802" timestamp="1581919243224" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1581920879560">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1581866178673" />
-    <state width="1398" height="303" key="GridCell.Tab.1.center/0.23.1440.802@0.23.1440.802" timestamp="1581858657338" />
-    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1581866178673">
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1581920879560" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.23.1440.802@0.23.1440.802" timestamp="1581919243223" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1581920879559">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1581866178673" />
-    <state width="1398" height="303" key="GridCell.Tab.1.left/0.23.1440.802@0.23.1440.802" timestamp="1581858657338" />
-    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1581866178673">
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1581920879559" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.23.1440.802@0.23.1440.802" timestamp="1581919243222" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1581920879560">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1581866178673" />
-    <state width="1398" height="303" key="GridCell.Tab.1.right/0.23.1440.802@0.23.1440.802" timestamp="1581858657339" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1581920879560" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.23.1440.802@0.23.1440.802" timestamp="1581919243223" />
     <state x="399" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1581826812221">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
@@ -172,5 +228,16 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="509" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1581843102306" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedListCycle.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

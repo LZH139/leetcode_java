@@ -1,4 +1,4 @@
-package Common;
+package Common.Tree;
 
 public class TreeNode {
     public int val;

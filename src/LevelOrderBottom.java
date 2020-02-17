@@ -1,5 +1,5 @@
-import Common.Tree;
-import Common.TreeNode;
+import Common.Tree.Tree;
+import Common.Tree.TreeNode;
 
 import java.util.*;
 
