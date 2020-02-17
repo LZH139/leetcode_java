@@ -42,7 +42,7 @@ public class LinkedListCycle {
     public class Solution {
         public boolean hasCycle(ListNode head) {
             if(head == null){
-                return false
+                return false;
             }
             ListNode slowCursor = head;
             ListNode fastCursor = head.next;

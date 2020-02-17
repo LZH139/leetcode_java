@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08f3220a-af4e-43b0-98cf-2e759f51cf08" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ExcelSheetColumnNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExcelSheetColumnTitle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntersectionOfTwoLinkedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MajorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoSumIIInputarrayIsSorted.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/LinkedListCycle$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/LinkedListCycle$Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedListCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedListCycle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,10 +38,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Application.LinkedListCycle">
-    <configuration name="BestTimeToBuyAndSellStockII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BestTimeToBuyAndSellStockII" />
+  <component name="RunManager" selected="Application.MajorityElement">
+    <configuration name="ExcelSheetColumnTitle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExcelSheetColumnTitle" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -60,15 +68,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SingleNumber" />
+    <configuration name="MajorityElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MajorityElement" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ValidPalindrome" />
+    <configuration name="TwoSumIIInputarrayIsSorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoSumIIInputarrayIsSorted" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MajorityElement" />
+        <item itemvalue="Application.ExcelSheetColumnTitle" />
+        <item itemvalue="Application.TwoSumIIInputarrayIsSorted" />
         <item itemvalue="Application.LinkedListCycle" />
         <item itemvalue="Application.List" />
-        <item itemvalue="Application.SingleNumber" />
-        <item itemvalue="Application.ValidPalindrome" />
-        <item itemvalue="Application.BestTimeToBuyAndSellStockII" />
       </list>
     </recent_temporary>
   </component>
@@ -94,7 +102,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581826808284</updated>
-      <workItem from="1581826811580" duration="26122000" />
+      <workItem from="1581826811580" duration="33428000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1581843095954</created>
@@ -143,47 +151,55 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="314" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1581921869237" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1581921385721">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1581932734376">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581921385721" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581932734376" />
     <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.23.1440.802@0.23.1440.802" timestamp="1581918902594" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1581921385720">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1581931239472" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1581932734374">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1581921385720" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1581932734374" />
     <state width="1398" height="303" key="GridCell.Tab.0.center/0.23.1440.802@0.23.1440.802" timestamp="1581918902592" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1581921385719">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1581931239471" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1581932734374">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="303" key="GridCell.Tab.0.left/0.0.1440.825@0.0.1440.900" timestamp="1581911155982" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1581921385719" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1581932734374" />
     <state width="1398" height="303" key="GridCell.Tab.0.left/0.23.1440.802@0.23.1440.802" timestamp="1581918902592" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1581921385720">
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1581931239471" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1581932734375">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1581921385720" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1581932734375" />
     <state width="1398" height="303" key="GridCell.Tab.0.right/0.23.1440.802@0.23.1440.802" timestamp="1581918902593" />
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1581920879561">
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1581931239472" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1581930922401">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581920879561" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581930922401" />
     <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.23.1440.802@0.23.1440.802" timestamp="1581919243224" />
-    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1581920879560">
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.23.1440.804@0.23.1440.804" timestamp="1581930011050" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1581930922400">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1581920879560" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1581930922400" />
     <state width="1398" height="303" key="GridCell.Tab.1.center/0.23.1440.802@0.23.1440.802" timestamp="1581919243223" />
-    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1581920879559">
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.23.1440.804@0.23.1440.804" timestamp="1581930011048" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1581930922399">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1581920879559" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1581930922399" />
     <state width="1398" height="303" key="GridCell.Tab.1.left/0.23.1440.802@0.23.1440.802" timestamp="1581919243222" />
-    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1581920879560">
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.23.1440.804@0.23.1440.804" timestamp="1581930011047" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1581930922400">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1581920879560" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1581930922400" />
     <state width="1398" height="303" key="GridCell.Tab.1.right/0.23.1440.802@0.23.1440.802" timestamp="1581919243223" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.23.1440.804@0.23.1440.804" timestamp="1581930011049" />
     <state x="399" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1581826812221">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
@@ -197,9 +213,9 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LinkedListCycle.java</url>
-          <line>56</line>
-          <option name="timeStamp" value="58" />
+          <url>file://$PROJECT_DIR$/src/TwoSumIIInputarrayIsSorted.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="63" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
