@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08f3220a-af4e-43b0-98cf-2e759f51cf08" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ExcelSheetColumnNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExcelSheetColumnTitle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntersectionOfTwoLinkedLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MajorityElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoSumIIInputarrayIsSorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConvertBinaryNumberInALinkedListToInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DeleteNodeInALinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MiddleOfTheLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PalindromeLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemoveDuplicatesFromSortedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemoveLinkedListElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/LinkedListCycle$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/LinkedListCycle$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedListCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedListCycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExcelSheetColumnNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExcelSheetColumnNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,43 +41,37 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Application.MajorityElement">
-    <configuration name="ExcelSheetColumnTitle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExcelSheetColumnTitle" />
+  <component name="RunManager" selected="Application.ConvertBinaryNumberInALinkedListToInteger">
+    <configuration name="ConvertBinaryNumberInALinkedListToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConvertBinaryNumberInALinkedListToInteger" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListCycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedListCycle" />
+    <configuration name="MiddleOfTheLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MiddleOfTheLinkedList" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Common.List.List" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Common.List.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MajorityElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MajorityElement" />
+    <configuration name="PalindromeLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PalindromeLinkedList" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSumIIInputarrayIsSorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoSumIIInputarrayIsSorted" />
+    <configuration name="RemoveLinkedListElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RemoveLinkedListElements" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseLinkedList" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MajorityElement" />
-        <item itemvalue="Application.ExcelSheetColumnTitle" />
-        <item itemvalue="Application.TwoSumIIInputarrayIsSorted" />
-        <item itemvalue="Application.LinkedListCycle" />
-        <item itemvalue="Application.List" />
+        <item itemvalue="Application.ConvertBinaryNumberInALinkedListToInteger" />
+        <item itemvalue="Application.MiddleOfTheLinkedList" />
+        <item itemvalue="Application.PalindromeLinkedList" />
+        <item itemvalue="Application.ReverseLinkedList" />
+        <item itemvalue="Application.RemoveLinkedListElements" />
       </list>
     </recent_temporary>
   </component>
@@ -102,7 +97,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581826808284</updated>
-      <workItem from="1581826811580" duration="33428000" />
+      <workItem from="1581826811580" duration="45072000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1581843095954</created>
@@ -132,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581921869430</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update">
+      <created>1581933262627</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1581933262627</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,59 +149,59 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="570" y="357" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1440.900@0.0.1440.900" timestamp="1581826850885" />
-    <state x="314" y="52" key="CommitChangelistDialog2" timestamp="1581921869237">
+    <state x="314" y="52" key="CommitChangelistDialog2" timestamp="1581933262512">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="314" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1581921869237" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1581932734376">
+    <state x="314" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1581933262512" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1582003053696">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581932734376" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582003053696" />
     <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.23.1440.802@0.23.1440.802" timestamp="1581918902594" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1581931239472" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1581932734374">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1582002522308" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1582003053694">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1581932734374" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582003053694" />
     <state width="1398" height="303" key="GridCell.Tab.0.center/0.23.1440.802@0.23.1440.802" timestamp="1581918902592" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1581931239471" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1581932734374">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1582002522308" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1582003053694">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="303" key="GridCell.Tab.0.left/0.0.1440.825@0.0.1440.900" timestamp="1581911155982" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1581932734374" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582003053694" />
     <state width="1398" height="303" key="GridCell.Tab.0.left/0.23.1440.802@0.23.1440.802" timestamp="1581918902592" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1581931239471" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1581932734375">
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1582002522307" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1582003053695">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1581932734375" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582003053695" />
     <state width="1398" height="303" key="GridCell.Tab.0.right/0.23.1440.802@0.23.1440.802" timestamp="1581918902593" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1581931239472" />
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1581930922401">
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1582002522308" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1582003037346">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581930922401" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582003037346" />
     <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.23.1440.802@0.23.1440.802" timestamp="1581919243224" />
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.23.1440.804@0.23.1440.804" timestamp="1581930011050" />
-    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1581930922400">
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.23.1440.804@0.23.1440.804" timestamp="1581991446532" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1582003037345">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1581930922400" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1582003037345" />
     <state width="1398" height="303" key="GridCell.Tab.1.center/0.23.1440.802@0.23.1440.802" timestamp="1581919243223" />
-    <state width="1398" height="303" key="GridCell.Tab.1.center/0.23.1440.804@0.23.1440.804" timestamp="1581930011048" />
-    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1581930922399">
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.23.1440.804@0.23.1440.804" timestamp="1581991446531" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1582003037345">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1581930922399" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1582003037345" />
     <state width="1398" height="303" key="GridCell.Tab.1.left/0.23.1440.802@0.23.1440.802" timestamp="1581919243222" />
-    <state width="1398" height="303" key="GridCell.Tab.1.left/0.23.1440.804@0.23.1440.804" timestamp="1581930011047" />
-    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1581930922400">
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.23.1440.804@0.23.1440.804" timestamp="1581991446530" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1582003037345">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1581930922400" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1582003037345" />
     <state width="1398" height="303" key="GridCell.Tab.1.right/0.23.1440.802@0.23.1440.802" timestamp="1581919243223" />
-    <state width="1398" height="303" key="GridCell.Tab.1.right/0.23.1440.804@0.23.1440.804" timestamp="1581930011049" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.23.1440.804@0.23.1440.804" timestamp="1581991446531" />
     <state x="399" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1581826812221">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
@@ -216,6 +218,11 @@
           <url>file://$PROJECT_DIR$/src/TwoSumIIInputarrayIsSorted.java</url>
           <line>24</line>
           <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RemoveLinkedListElements.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="82" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
