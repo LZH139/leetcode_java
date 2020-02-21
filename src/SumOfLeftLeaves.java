@@ -11,13 +11,23 @@ public class SumOfLeftLeaves {
 
     public void out() {
         Solution s = new Solution();
-        Integer[] tree = new Integer[]{1,2,3,null,5,null,null};
+        Integer[] tree = new Integer[]{3,9,10,null,null,15,7};
         TreeNode treehead = Tree.createTree(tree);
         System.out.println(s.sumOfLeftLeaves(treehead));
     }
     class Solution {
         public int sumOfLeftLeaves(TreeNode root) {
+            return helper(root,false);
+        }
 
+        public int helper(TreeNode root,boolean isLeft){
+            if(root == null) {
+                return 0;
+            }
+            if(root.left == null && root.right==null && isLeft) {
+                return root.val;
+            }
+            return helper(root.left,true)+helper(root.right,false);
         }
     }
 }

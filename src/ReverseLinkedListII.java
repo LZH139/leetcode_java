@@ -9,9 +9,9 @@ public class ReverseLinkedListII {
 
     public void out(){
         Solution s = new Solution();
-        int[] n = new int[]{1,2,3,4,5};
+        int[] n = new int[]{3,5};
         ListNode l = List.createList(n);
-        ListNode a = s.reverseBetween(l,2,4);
+        ListNode a = s.reverseBetween(l,1,2);
         System.out.println();
 
     }
@@ -20,15 +20,20 @@ public class ReverseLinkedListII {
         public ListNode reverseBetween(ListNode head, int m, int n) {
             ListNode dummy = new ListNode(0);
             dummy.next = head;
-            ListNode first = dummy;
-            ListNode tail = dummy.next;
             ListNode pre = dummy;
-            ListNode cur = dummy.next;
-            int count = 0;
-            while (count!=n){
-
+            ListNode cur;
+            ListNode temp;
+            for (int i = 1; i < m; i++) {
+                pre = pre.next;
             }
-            return head;
+            cur = pre.next;
+            for(int i=m;i<n;i++){
+                temp = pre.next;
+                pre.next = cur.next;
+                cur.next = pre.next.next;
+                pre.next.next = temp;
+            }
+            return dummy.next;
         }
     }
 

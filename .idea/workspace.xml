@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08f3220a-af4e-43b0-98cf-2e759f51cf08" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BinaryTreePaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SumOfLeftLeaves.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConvertSortedListToBinarySearchTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/InvertBinaryTree$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/InvertBinaryTree$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowestCommonAncestorOfABinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LowestCommonAncestorOfABinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/ReverseLinkedListII$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/ReverseLinkedListII$Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/ReverseLinkedListII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/ReverseLinkedListII.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReverseLinkedListII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReverseLinkedListII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SumOfLeftLeaves.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SumOfLeftLeaves.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +38,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Application.BinaryTreePaths">
+  <component name="RunManager" selected="Application.ConvertSortedListToBinarySearchTree">
     <configuration name="BinaryTreePaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinaryTreePaths" />
       <module name="leetcode" />
@@ -45,29 +46,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InvertBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InvertBinaryTree" />
+    <configuration name="ConvertSortedArrayToBinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConvertSortedArrayToBinarySearchTree" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LowestCommonAncestorOfABinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LowestCommonAncestorOfABinarySearchTree" />
+    <configuration name="ConvertSortedListToBinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConvertSortedListToBinarySearchTree" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PartitionList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PartitionList" />
+    <configuration name="ReverseLinkedListII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseLinkedListII" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicatesFromSortedListII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RemoveDuplicatesFromSortedListII" />
+    <configuration name="SumOfLeftLeaves" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumOfLeftLeaves" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,11 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConvertSortedListToBinarySearchTree" />
+        <item itemvalue="Application.ConvertSortedArrayToBinarySearchTree" />
+        <item itemvalue="Application.ReverseLinkedListII" />
+        <item itemvalue="Application.SumOfLeftLeaves" />
         <item itemvalue="Application.BinaryTreePaths" />
-        <item itemvalue="Application.LowestCommonAncestorOfABinarySearchTree" />
-        <item itemvalue="Application.InvertBinaryTree" />
-        <item itemvalue="Application.PartitionList" />
-        <item itemvalue="Application.RemoveDuplicatesFromSortedListII" />
       </list>
     </recent_temporary>
   </component>
@@ -93,7 +94,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581826808284</updated>
-      <workItem from="1581826811580" duration="80795000" />
+      <workItem from="1581826811580" duration="90576000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1581843095954</created>
@@ -137,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582004947022</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update">
+      <created>1582208924469</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1582208924469</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,57 +160,57 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="570" y="357" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1440.900@0.0.1440.900" timestamp="1581826850885" />
-    <state x="314" y="52" key="CommitChangelistDialog2" timestamp="1582004946879">
+    <state x="314" y="52" key="CommitChangelistDialog2" timestamp="1582208924351">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="314" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1582004946879" />
-    <state width="1398" height="303" key="GridCell.Tab.0.bottom" timestamp="1582189919372">
+    <state x="314" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1582208924351" />
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom" timestamp="1582261914189">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582189919372" />
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582261914189" />
     <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.23.1440.802@0.23.1440.802" timestamp="1581918902594" />
     <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1582166888961" />
-    <state width="1398" height="303" key="GridCell.Tab.0.center" timestamp="1582189919371">
+    <state width="1398" height="303" key="GridCell.Tab.0.center" timestamp="1582261914187">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582189919371" />
+    <state width="1398" height="303" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582261914187" />
     <state width="1398" height="303" key="GridCell.Tab.0.center/0.23.1440.802@0.23.1440.802" timestamp="1581918902592" />
     <state width="1398" height="303" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1582166888959" />
-    <state width="1398" height="303" key="GridCell.Tab.0.left" timestamp="1582189919369">
+    <state width="1398" height="303" key="GridCell.Tab.0.left" timestamp="1582261914187">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="303" key="GridCell.Tab.0.left/0.0.1440.825@0.0.1440.900" timestamp="1581911155982" />
-    <state width="1398" height="303" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582189919369" />
+    <state width="1398" height="303" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582261914187" />
     <state width="1398" height="303" key="GridCell.Tab.0.left/0.23.1440.802@0.23.1440.802" timestamp="1581918902592" />
     <state width="1398" height="303" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1582166888958" />
-    <state width="1398" height="303" key="GridCell.Tab.0.right" timestamp="1582189919371">
+    <state width="1398" height="303" key="GridCell.Tab.0.right" timestamp="1582261914188">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582189919371" />
+    <state width="1398" height="303" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582261914188" />
     <state width="1398" height="303" key="GridCell.Tab.0.right/0.23.1440.802@0.23.1440.802" timestamp="1581918902593" />
     <state width="1398" height="303" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1582166888960" />
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1582189919598">
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1582261914282">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582189919598" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582261914282" />
     <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.23.1440.802@0.23.1440.802" timestamp="1581919243224" />
     <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.23.1440.804@0.23.1440.804" timestamp="1582166889096" />
-    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1582189919596">
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1582261914280">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1582189919596" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1582261914280" />
     <state width="1398" height="303" key="GridCell.Tab.1.center/0.23.1440.802@0.23.1440.802" timestamp="1581919243223" />
     <state width="1398" height="303" key="GridCell.Tab.1.center/0.23.1440.804@0.23.1440.804" timestamp="1582166889095" />
-    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1582189919596">
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1582261914279">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1582189919596" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1582261914279" />
     <state width="1398" height="303" key="GridCell.Tab.1.left/0.23.1440.802@0.23.1440.802" timestamp="1581919243222" />
     <state width="1398" height="303" key="GridCell.Tab.1.left/0.23.1440.804@0.23.1440.804" timestamp="1582166889094" />
-    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1582189919597">
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1582261914281">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1582189919597" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1582261914281" />
     <state width="1398" height="303" key="GridCell.Tab.1.right/0.23.1440.802@0.23.1440.802" timestamp="1581919243223" />
     <state width="1398" height="303" key="GridCell.Tab.1.right/0.23.1440.804@0.23.1440.804" timestamp="1582166889095" />
     <state x="399" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1581826812221">
@@ -270,6 +278,21 @@
           <url>file://$PROJECT_DIR$/src/BinaryTreePaths.java</url>
           <line>18</line>
           <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ReverseLinkedListII.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ReverseLinkedListII.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ConvertSortedListToBinarySearchTree.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="152" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
