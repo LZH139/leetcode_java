@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08f3220a-af4e-43b0-98cf-2e759f51cf08" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Tree/ConstructStringFromBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/AverageOfLevelsInBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/LeafSimilarTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/LongestUnivaluePath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/MergeTwoBinaryTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/MinimumDistanceBetweenBSTNodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/SearchInABinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/SecondMinimumNodeInABinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/TrimABinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/TwoSumIVInputIsABST.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/SubtreeOfAnotherTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/SubtreeOfAnotherTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,9 +47,9 @@
       <recent name="$PROJECT_DIR$/src/LinkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConstructStringFromBinaryTree">
-    <configuration name="BinaryTreeTilt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tree.BinaryTreeTilt" />
+  <component name="RunManager" selected="Application.LeafSimilarTrees">
+    <configuration name="LeafSimilarTrees" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree.LeafSimilarTrees" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -54,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstructStringFromBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tree.ConstructStringFromBinaryTree" />
+    <configuration name="MinimumDistanceBetweenBSTNodes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree.MinimumDistanceBetweenBSTNodes" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -67,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConvertBSTToGreaterTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tree.ConvertBSTToGreaterTree" />
+    <configuration name="SearchInABinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree.SearchInABinarySearchTree" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -80,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DiameterOfBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tree.DiameterOfBinaryTree" />
+    <configuration name="SecondMinimumNodeInABinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree.SecondMinimumNodeInABinaryTree" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -93,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubtreeOfAnotherTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tree.SubtreeOfAnotherTree" />
+    <configuration name="TrimABinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree.TrimABinarySearchTree" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -108,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ConstructStringFromBinaryTree" />
-        <item itemvalue="Application.SubtreeOfAnotherTree" />
-        <item itemvalue="Application.BinaryTreeTilt" />
-        <item itemvalue="Application.DiameterOfBinaryTree" />
-        <item itemvalue="Application.ConvertBSTToGreaterTree" />
+        <item itemvalue="Application.LeafSimilarTrees" />
+        <item itemvalue="Application.MinimumDistanceBetweenBSTNodes" />
+        <item itemvalue="Application.SearchInABinarySearchTree" />
+        <item itemvalue="Application.SecondMinimumNodeInABinaryTree" />
+        <item itemvalue="Application.TrimABinarySearchTree" />
       </list>
     </recent_temporary>
   </component>
@@ -126,7 +133,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581826808284</updated>
-      <workItem from="1581826811580" duration="110685000" />
+      <workItem from="1581826811580" duration="122491000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1581843095954</created>
@@ -191,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582353847930</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="update">
+      <created>1582427777550</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1582427777550</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,71 +220,71 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="570" y="357" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1440.900@0.0.1440.900" timestamp="1581826850885" />
-    <state x="314" y="52" key="CommitChangelistDialog2" timestamp="1582353847633">
+    <state x="314" y="52" key="CommitChangelistDialog2" timestamp="1582427777408">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="314" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1582353847633" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1582427455715">
+    <state x="314" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1582427777408" />
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom" timestamp="1582450492868">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582427455715" />
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582450492868" />
     <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.23.1440.802@0.23.1440.802" timestamp="1581918902594" />
     <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1582166888961" />
     <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1582345467345" />
     <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1582359205936" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1582427455714">
+    <state width="1398" height="303" key="GridCell.Tab.0.center" timestamp="1582450492867">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582427455714" />
+    <state width="1398" height="303" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582450492867" />
     <state width="1398" height="303" key="GridCell.Tab.0.center/0.23.1440.802@0.23.1440.802" timestamp="1581918902592" />
     <state width="1398" height="303" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1582166888959" />
     <state width="1398" height="303" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1582345467344" />
     <state width="1398" height="303" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1582359205935" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1582427455714">
+    <state width="1398" height="303" key="GridCell.Tab.0.left" timestamp="1582450492866">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="303" key="GridCell.Tab.0.left/0.0.1440.825@0.0.1440.900" timestamp="1581911155982" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582427455714" />
+    <state width="1398" height="303" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582450492866" />
     <state width="1398" height="303" key="GridCell.Tab.0.left/0.23.1440.802@0.23.1440.802" timestamp="1581918902592" />
     <state width="1398" height="303" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1582166888958" />
     <state width="1398" height="303" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1582345467343" />
     <state width="1398" height="303" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1582359205935" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1582427455715">
+    <state width="1398" height="303" key="GridCell.Tab.0.right" timestamp="1582450492867">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582427455715" />
+    <state width="1398" height="303" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582450492867" />
     <state width="1398" height="303" key="GridCell.Tab.0.right/0.23.1440.802@0.23.1440.802" timestamp="1581918902593" />
     <state width="1398" height="303" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1582166888960" />
     <state width="1398" height="303" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1582345467345" />
     <state width="1398" height="303" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1582359205936" />
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1582425552263">
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1582450492869">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582425552263" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582450492869" />
     <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.23.1440.802@0.23.1440.802" timestamp="1581919243224" />
     <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.23.1440.804@0.23.1440.804" timestamp="1582166889096" />
     <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.23.1440.808@0.23.1440.808" timestamp="1582342177598" />
     <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.23.1440.811@0.23.1440.811" timestamp="1582359205852" />
-    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1582425552261">
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1582450492869">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1582425552261" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1582450492869" />
     <state width="1398" height="303" key="GridCell.Tab.1.center/0.23.1440.802@0.23.1440.802" timestamp="1581919243223" />
     <state width="1398" height="303" key="GridCell.Tab.1.center/0.23.1440.804@0.23.1440.804" timestamp="1582166889095" />
     <state width="1398" height="303" key="GridCell.Tab.1.center/0.23.1440.808@0.23.1440.808" timestamp="1582342177597" />
     <state width="1398" height="303" key="GridCell.Tab.1.center/0.23.1440.811@0.23.1440.811" timestamp="1582359205851" />
-    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1582425552261">
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1582450492868">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1582425552261" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1582450492868" />
     <state width="1398" height="303" key="GridCell.Tab.1.left/0.23.1440.802@0.23.1440.802" timestamp="1581919243222" />
     <state width="1398" height="303" key="GridCell.Tab.1.left/0.23.1440.804@0.23.1440.804" timestamp="1582166889094" />
     <state width="1398" height="303" key="GridCell.Tab.1.left/0.23.1440.808@0.23.1440.808" timestamp="1582342177597" />
     <state width="1398" height="303" key="GridCell.Tab.1.left/0.23.1440.811@0.23.1440.811" timestamp="1582359205851" />
-    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1582425552262">
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1582450492869">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1582425552262" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1582450492869" />
     <state width="1398" height="303" key="GridCell.Tab.1.right/0.23.1440.802@0.23.1440.802" timestamp="1581919243223" />
     <state width="1398" height="303" key="GridCell.Tab.1.right/0.23.1440.804@0.23.1440.804" timestamp="1582166889095" />
     <state width="1398" height="303" key="GridCell.Tab.1.right/0.23.1440.808@0.23.1440.808" timestamp="1582342177598" />
@@ -279,10 +293,10 @@
       <screen x="0" y="23" width="1440" height="804" />
     </state>
     <state x="399" y="257" key="com.intellij.ide.util.TipDialog/0.23.1440.804@0.23.1440.804" timestamp="1581826812221" />
-    <state x="509" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581843102306">
+    <state x="509" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582427784329">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="509" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1581843102306" />
+    <state x="509" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1582427784329" />
     <state x="386" y="85" width="667" height="729" key="find.popup" timestamp="1582015832825">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -365,6 +379,21 @@
           <url>file://$PROJECT_DIR$/src/Tree/BinaryTreeTilt.java</url>
           <line>25</line>
           <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tree/MergeTwoBinaryTrees.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tree/SearchInABinarySearchTree.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tree/MinimumDistanceBetweenBSTNodes.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="173" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
