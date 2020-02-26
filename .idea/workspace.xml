@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08f3220a-af4e-43b0-98cf-2e759f51cf08" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Common/random.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/MinStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Tree/PathSumIII$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Tree/PathSumIII$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/LongestUnivaluePath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/LongestUnivaluePath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/PathSumIII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/PathSumIII.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +125,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581826808284</updated>
-      <workItem from="1581826811580" duration="149276000" />
+      <workItem from="1581826811580" duration="152685000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1581843095954</created>
@@ -242,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582620965959</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="update">
+      <created>1582705871201</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1582705871202</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,10 +265,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="570" y="357" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1440.900@0.0.1440.900" timestamp="1581826850885" />
-    <state x="314" y="52" key="CommitChangelistDialog2" timestamp="1582620965832">
+    <state x="314" y="52" key="CommitChangelistDialog2" timestamp="1582705870976">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="314" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1582620965832" />
+    <state x="314" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1582705870976" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1582705225896">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
