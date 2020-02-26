@@ -17,8 +17,32 @@ public class PathSumIII {
     }
 
     class Solution {
+        int count=0;
         public int pathSum(TreeNode root, int sum) {
-            return 1;
+            if(root == null){
+                return 0;
+            }
+            int[] sumlist = new int [1001];
+            helper(root,sum,sumlist,1);
+            return count;
+        }
+
+        public void helper(TreeNode root, int sum, int[] sumlist, int cursor){
+            if(root == null){
+                return;
+            }
+            int su = root.val+sumlist[cursor-1];
+            sumlist[cursor] = su;
+            if(su == sum){
+                count++;
+            }
+            for(int i=1;i<cursor;i++){
+                if(sumlist[i] == su-sum){
+                    count++;
+                }
+            }
+            helper(root.left,sum,sumlist,cursor+1);
+            helper(root.right,sum,sumlist,cursor+1);
         }
     }
 }
