@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08f3220a-af4e-43b0-98cf-2e759f51cf08" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Array/ContainsDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/ContainsDuplicateII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/MissingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/MoveZeroes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/RotateArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack/ImplementQueueUsingStacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack/ImplementStackUsingQueues.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/MoveZeroes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/MoveZeroes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +125,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581826808284</updated>
-      <workItem from="1581826811580" duration="161870000" />
+      <workItem from="1581826811580" duration="162651000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1581843095954</created>
@@ -259,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582727367022</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="update">
+      <created>1582795645245</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1582795645245</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -278,10 +279,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="570" y="357" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1440.900@0.0.1440.900" timestamp="1581826850885" />
-    <state x="314" y="52" key="CommitChangelistDialog2" timestamp="1582727366786">
+    <state x="314" y="52" key="CommitChangelistDialog2" timestamp="1582795645079">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="314" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1582727366786" />
+    <state x="314" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1582795645079" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1582791287423">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

@@ -8,7 +8,7 @@ public class MoveZeroes {
 
     public void out(){
         Solution s = new Solution();
-        int[] n = new int[]{3,0,1};
+        int[] n = new int[]{0,1,0,3,12};
         s.moveZeroes(n);
     }
 
