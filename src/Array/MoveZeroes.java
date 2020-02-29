@@ -22,12 +22,22 @@ public class MoveZeroes {
         public void moveZeroes(int[] nums) {
             int cura = 0;
             int curb = 0;
-            while (curb!=nums.length){
-                if(nums[cura]==0){
-
+            int temp;
+            while (curb<nums.length){
+                if(nums[curb]==0){
+                    cura = curb;
+                    while (nums[cura] == 0 && cura<nums.length-1){
+                        cura++;
+                    }
+                    if(nums[cura] == 0){
+                        return;
+                    }
+                    temp = nums[cura];
+                    nums[cura] = nums[curb];
+                    nums[curb] = temp;
                 }
+                curb++;
             }
-
         }
     }
 }
