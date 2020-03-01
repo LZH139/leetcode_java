@@ -18,25 +18,44 @@ public class MoveZeroes {
         }
     }
 
+//    class Solution {
+//        public void moveZeroes(int[] nums) {
+//            int cura = 0;
+//            int curb = 0;
+//            int temp;
+//            while (curb<nums.length){
+//                if(nums[curb]==0){
+//                    cura = curb;
+//                    while (nums[cura] == 0 && cura<nums.length-1){
+//                        cura++;
+//                    }
+//                    if(nums[cura] == 0){
+//                        return;
+//                    }
+//                    temp = nums[cura];
+//                    nums[cura] = nums[curb];
+//                    nums[curb] = temp;
+//                }
+//                curb++;
+//            }
+//        }
+//    }
+
     class Solution {
         public void moveZeroes(int[] nums) {
-            int cura = 0;
-            int curb = 0;
-            int temp;
-            while (curb<nums.length){
-                if(nums[curb]==0){
-                    cura = curb;
-                    while (nums[cura] == 0 && cura<nums.length-1){
-                        cura++;
-                    }
-                    if(nums[cura] == 0){
-                        return;
-                    }
-                    temp = nums[cura];
-                    nums[cura] = nums[curb];
-                    nums[curb] = temp;
+            if(nums == null || nums.length == 0){
+                return ;
+            }
+            int zeroNums = 0;
+            for(int i = 0;i < nums.length;i++) {
+                if(nums[i] == 0){
+                    zeroNums++;
+                }else{
+                    nums[i-zeroNums] = nums[i];
                 }
-                curb++;
+            }
+            for(int i = 0;i < zeroNums;i++){
+                nums[nums.length-1-i] = 0;
             }
         }
     }
