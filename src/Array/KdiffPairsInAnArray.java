@@ -11,8 +11,8 @@ public class KdiffPairsInAnArray {
 
     public void out() {
         Solution s = new Solution();
-        int[] n = new int[]{1, 3, 1, 5, 4};
-        System.out.print(s.findPairs(n,0));
+        int[] n = new int[]{3, 1, 4, 1, 5};
+        System.out.print(s.findPairs(n,2));
     }
 
     public void printArray(int[] nums) {
@@ -24,9 +24,18 @@ public class KdiffPairsInAnArray {
     class Solution {
         public int findPairs(int[] nums, int k) {
             Set<Integer> set = new HashSet<>();
+            Set<Integer> sameSet = new HashSet<>();
             int count = 0;
+            if(k<0){
+                return count;
+            }
             for(int i=0;i<nums.length;i++){
-                if(!set.contains(nums[i])){
+                if(k==0){
+                    if(set.contains(nums[i]) && !sameSet.contains(nums[i])){
+                        sameSet.add(nums[i]);
+                        count++;
+                    }
+                }else if(!set.contains(nums[i])){
                     if(set.contains(nums[i]+k)){
                         count++;
                     }
