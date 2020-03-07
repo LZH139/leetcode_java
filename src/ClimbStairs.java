@@ -4,10 +4,11 @@ public class ClimbStairs {
         c.out();
     }
 
+
+
     public void out(){
         Solution s = new Solution();
         System.out.println(s.climbStairs(35));
-//        System.out.println(s.A(2,3));
     }
 
     class Solution {
