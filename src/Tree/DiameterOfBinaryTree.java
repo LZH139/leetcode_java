@@ -3,6 +3,7 @@ package Tree;
 import Common.Tree.Tree;
 import Common.Tree.TreeNode;
 
+
 public class DiameterOfBinaryTree {
     public static void main(String[] argv){
         DiameterOfBinaryTree m = new DiameterOfBinaryTree();
@@ -14,6 +15,7 @@ public class DiameterOfBinaryTree {
         Integer[] tree = new Integer[]{1,2,3,4,5};
         TreeNode treehead = Tree.createTree(tree);
         System.out.println(s.diameterOfBinaryTree(treehead));
+
     }
 
     class Solution {
