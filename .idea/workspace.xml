@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08f3220a-af4e-43b0-98cf-2e759f51cf08" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Array/FindPivotIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/LargestNumberAtLeastTwiceOfOthers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/MinCostClimbingStairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/OneBitAndTwoBitCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/ToeplitzMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/MissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/MissingNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +138,7 @@
       <workItem from="1583835048835" duration="771000" />
       <workItem from="1583837600247" duration="7217000" />
       <workItem from="1583974052701" duration="8471000" />
-      <workItem from="1584066185273" duration="5615000" />
+      <workItem from="1584066185273" duration="5880000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1581843095954</created>
@@ -340,7 +336,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583985307541</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="update">
+      <created>1584089291963</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1584089291963</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -372,10 +375,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="494" y="342" width="451" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900@0.0.1440.900" timestamp="1583032185825" />
-    <state x="314" y="52" key="CommitChangelistDialog2" timestamp="1583985307128">
+    <state x="314" y="52" key="CommitChangelistDialog2" timestamp="1584089291774">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="314" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1583985307128" />
+    <state x="314" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1584089291774" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1584088605013">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

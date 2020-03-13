@@ -17,7 +17,6 @@ public class MissingNumber {
             System.out.print(num+" ");
         }
     }
-
     class Solution {
         public int missingNumber(int[] nums) {
             int result = nums.length;
@@ -25,7 +24,6 @@ public class MissingNumber {
                 result = result^nums[i]^i;
             }
             return result;
-
         }
     }
 
