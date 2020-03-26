@@ -14,7 +14,7 @@ public class ConvertSortedArrayToBinarySearchTree {
         ListNode l = List.createList(n);
         System.out.println(s.sortedArrayToBST(n));
     }
-
+ 
     class Solution {
         int[] nums;
 
@@ -24,7 +24,6 @@ public class ConvertSortedArrayToBinarySearchTree {
             }
 
             int p = (left + right) / 2;
-
 
             TreeNode root = new TreeNode(nums[p]);
             root.left = helper(left, p - 1);
