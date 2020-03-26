@@ -23,7 +23,6 @@ public class ConvertSortedArrayToBinarySearchTree {
                 return null;
             }
 
-
             int p = (left + right) / 2;
 
 
