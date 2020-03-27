@@ -4,6 +4,7 @@ public class BestTimeToBuyAndSellStock {
         b.out();
     }
 
+
     public void out(){
         Solution s = new Solution();
         int [] stock = new int[]{7,1,5,3,6,4};

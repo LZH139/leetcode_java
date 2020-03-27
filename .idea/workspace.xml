@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08f3220a-af4e-43b0-98cf-2e759f51cf08" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.autogit.sh.swp" beforeDir="false" afterPath="$PROJECT_DIR$/.autogit.sh.swp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.autogit.sh.swp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +132,7 @@
       <workItem from="1583835048835" duration="771000" />
       <workItem from="1583837600247" duration="7217000" />
       <workItem from="1583974052701" duration="8471000" />
-      <workItem from="1584066185273" duration="96624000" />
+      <workItem from="1584066185273" duration="96906000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1581843095954</created>
