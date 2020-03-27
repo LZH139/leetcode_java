@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08f3220a-af4e-43b0-98cf-2e759f51cf08" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/ContiguousSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/FindMajorityElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/FindingNumbersInASortedArrayI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/MasterMind.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/MissingNumberII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/MissingNumberLCCI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/SortedMerge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/ConvertSortedArrayToBinarySearchTree$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/ConvertSortedArrayToBinarySearchTree$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/InterviewQuestions/PrintMatrixClockwise$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/InterviewQuestions/PrintMatrixClockwise$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/InterviewQuestions/PrintMatrixClockwise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/InterviewQuestions/PrintMatrixClockwise.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BestTimeToBuyAndSellStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BestTimeToBuyAndSellStock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InterviewQuestions/PrintMatrixClockwise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/PrintMatrixClockwise.java" afterDir="false" />
-    </list>
+    <list default="true" id="08f3220a-af4e-43b0-98cf-2e759f51cf08" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -150,7 +136,7 @@
       <workItem from="1583835048835" duration="771000" />
       <workItem from="1583837600247" duration="7217000" />
       <workItem from="1583974052701" duration="8471000" />
-      <workItem from="1584066185273" duration="107265000" />
+      <workItem from="1584066185273" duration="107452000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1581843095954</created>
