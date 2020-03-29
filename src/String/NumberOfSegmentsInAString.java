@@ -12,7 +12,7 @@ public class NumberOfSegmentsInAString {
     public void out() {
         Solution s = new Solution();
         int[] n = new int[]{1, 2, 3, 4, 5, 6, 7};
-        System.out.print(s.countSegments(""));
+        System.out.print(s.countSegments("Hello, my name is John"));
     }
 
     public void printArray(int[] nums) {
