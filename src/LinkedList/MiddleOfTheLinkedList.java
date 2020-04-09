@@ -16,22 +16,40 @@ public class MiddleOfTheLinkedList {
         System.out.println();
     }
 
+//    class Solution {
+//        public ListNode middleNode(ListNode head) {
+//            if(head == null || head.next == null){
+//                return head;
+//            }
+//            ListNode fast = head;
+//            ListNode slow = head;
+//            while (fast.next!=null && fast.next.next!=null){
+//                slow = slow.next;
+//                fast = fast.next.next;
+//            }
+//            if(fast.next == null){
+//                return slow;
+//            }else{
+//                return slow.next;
+//            }
+//        }
+//    }
     class Solution {
+        public int half = 0;
         public ListNode middleNode(ListNode head) {
-            if(head == null || head.next == null){
+            return helper(head,1);
+        }
+
+        public ListNode helper(ListNode head, int num) {
+            if(head == null){
+                half = (num-1)/2+1;
+                return null;
+            }
+            ListNode s = helper(head.next,num+1);
+            if(num == half){
                 return head;
             }
-            ListNode fast = head;
-            ListNode slow = head;
-            while (fast.next!=null && fast.next.next!=null){
-                slow = slow.next;
-                fast = fast.next.next;
-            }
-            if(fast.next == null){
-                return slow;
-            }else{
-                return slow.next;
-            }
+            return s;
         }
     }
 }
