@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="08f3220a-af4e-43b0-98cf-2e759f51cf08" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/MiddleOfTheLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/MiddleOfTheLinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,6 +143,7 @@
       <workItem from="1585485112299" duration="27450000" />
       <workItem from="1586349599249" duration="176000" />
       <workItem from="1586418204446" duration="1360000" />
+      <workItem from="1586483446832" duration="122000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1581843095954</created>
@@ -544,10 +544,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="290" y="65" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1585040734041" />
-    <state x="699" y="228" key="com.intellij.ide.util.TipDialog" timestamp="1586418204724">
+    <state x="699" y="228" key="com.intellij.ide.util.TipDialog" timestamp="1586483447520">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="699" y="228" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1586418204724" />
+    <state x="699" y="228" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1586483447520" />
     <state x="699" y="226" key="com.intellij.ide.util.TipDialog/0.23.1440.802@0.23.1440.802" timestamp="1585485357178" />
     <state x="699" y="227" key="com.intellij.ide.util.TipDialog/0.23.1440.804@0.23.1440.804" timestamp="1583460712626" />
     <state x="509" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585048012136">
